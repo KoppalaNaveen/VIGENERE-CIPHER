@@ -90,3 +90,5 @@ int main() {
 <img width="940" height="329" alt="image" src="https://github.com/user-attachments/assets/5149a381-bddf-40d7-82f8-bece4e40c5a4" />
 
 ## RESULT
+
+The program is executed successfully.
